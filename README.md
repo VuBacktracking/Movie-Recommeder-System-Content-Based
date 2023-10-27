@@ -20,7 +20,7 @@ I used Content-Based Method for creating a Movies Recommender System. This is a 
 Clone the repository
 
 ```bash
-git clone https://github.com/VuBacktracking/Movie-Content-based-RecSys.git
+git clone https://github.com/VuBacktracking/Movie-Recommeder-System-Content-Based.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
