@@ -18,6 +18,7 @@ I used Content-Based Method for creating a Movies Recommender System. This is a 
 <p align = "center">
     <img src="images/3.png" alt="workflow" width="70%">
 </p>
+
 ## How to run the app
 ### STEPS:
 
