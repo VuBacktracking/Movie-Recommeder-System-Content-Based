@@ -6,21 +6,25 @@ I used Content-Based Method for creating a Movies Recommender System. This is a 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 ## Demo:
-<img src="images/0.png" alt="workflow" width="70%">
-
-<img src="images/1.png" alt="workflow" width="70%">
-
-<img src="images/2.png" alt="workflow" width="70%">
-
-<img src="images/3.png" alt="workflow" width="70%">
-
+<p align = "center">
+    <img src="images/0.png" alt="workflow" width="70%">
+</p>
+<p align = "center">
+    <img src="images/1.png" alt="workflow" width="70%">
+</p>
+<p align = "center">
+    <img src="images/2.png" alt="workflow" width="70%">
+</p>
+<p align = "center">
+    <img src="images/3.png" alt="workflow" width="70%">
+</p>
 ## How to run the app
 ### STEPS:
 
 Clone the repository
 
 ```bash
-git clone https://github.com/VuBacktracking/Movie-Recommeder-System-Content-Based.git
+git clone https://github.com/VuBacktracking/Movie-Content-based-RecSys.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -50,4 +54,5 @@ Now run,
 ```bash
 streamlit run app.py
 ```
+
 *Note*: My `frontend` file was donwloaded from https://github.com/DenizD/Streamlit-Image-Carousel
