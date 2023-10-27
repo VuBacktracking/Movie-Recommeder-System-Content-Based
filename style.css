@@ -1,0 +1,46 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    background-color: #fff;
+    padding: 1.5rem;
+}
+
+.title { 
+    font-size: 45px;
+    color : rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+}
+
+.custom-text{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+.rate-count{
+    color:#8f170c;
+    font-family: 'Roboto', sans-serif;
+}
+
+.st-emotion-cache-syj25g ef3psqc11 {
+    padding: 10px 10px 15px 15px;
+    box-shadow: 0 3px 2px 5px;
+    border-radius: 3px;
+}
+.st-emotion-cache-syj25g ef3psqc11:hover {
+    background-color: rgb(142, 13, 13);
+    color: white;
+}
+.st-emotion-cache-syj25g ef3psqc11:active{
+    opacity: 0.7;
+}
+
+.st-emotion-cache-j0c5kg e1nzilvr5 {
+    font-size: 27px;
+}
+.st-emotion-cache-4ail08 e1nzilvr5{
+    font-family: Roboto;
+    font-size: 27px;
+}
