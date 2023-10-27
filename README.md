@@ -49,4 +49,5 @@ Movie RecSys.ipynb
 Now run,
 ```bash
 streamlit run app.py
-```# Movie-Recommeder-System
+```
+*Note*: My `frontend` file was donwloaded from https://github.com/DenizD/Streamlit-Image-Carousel
