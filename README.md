@@ -56,4 +56,4 @@ Now run,
 streamlit run app.py
 ```
 
-*Note*: My `frontend` file was donwloaded from https://github.com/DenizD/Streamlit-Image-Carousel
+*Note*: My [`frontend`](https://github.com/VuBacktracking/Movie-Recommeder-System-Content-Based/tree/main/frontend) folder was donwloaded from https://github.com/DenizD/Streamlit-Image-Carousel
