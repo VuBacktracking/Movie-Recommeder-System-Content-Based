@@ -1,5 +1,5 @@
 # Movie Recommendation System using Content-Based
-I used Content-Based Method for creating a Movies Recommender System. This is a web application that can recommend various kinds of similar movies
+I used Content-Based Method in order to create a Movies Recommender System. This is a web application that can recommend various kinds of similar movies
 
 ## Dataset has been used:
 
