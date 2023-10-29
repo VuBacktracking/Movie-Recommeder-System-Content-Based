@@ -3,7 +3,7 @@ I used Content-Based Method in order to create a Movies Recommender System. This
 
 ## Dataset has been used:
 
-* [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+* [TMDB Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 ## Demo:
 <p align = "center">
