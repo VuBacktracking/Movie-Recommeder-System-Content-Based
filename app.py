@@ -15,7 +15,7 @@ movie_titles = movies["title"].values
 tmdb_image_path = "https://image.tmdb.org/t/p/w500"
 # This is my own api key on TMDB website, you can get your own api key on https://www.themoviedb.org
 # After getting api key, replace your api key with mine to run.
-api_key = "12c5cb23fb3969ff73578784a128a11f"
+api_key = "YOUR_API_KEY"
 
 def get_poster(movie_id):
     response = requests.get(f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=en-US")
